@@ -1,0 +1,8 @@
+{
+  "classical": "completed",
+  "bert": "blocked: huggingface.co HTTP 403",
+  "python": "3.12.14",
+  "selected_model": "bow_nb",
+  "selection_split": "validation",
+  "presentation_slides": 10
+}

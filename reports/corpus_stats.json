@@ -1,0 +1,16 @@
+{
+  "raw_documents": 1000,
+  "unique_documents": 982,
+  "words": 10323,
+  "classes": {
+    "0": 493,
+    "1": 489
+  },
+  "splits": {
+    "train": 589,
+    "test": 197,
+    "validation": 196
+  },
+  "language": "English",
+  "source": "UCI Sentiment Labelled Sentences / Amazon Cells"
+}

@@ -1,0 +1,14 @@
+{
+  "word2vec": {
+    "vocab": 1131,
+    "known": 1131
+  },
+  "fasttext": {
+    "vocab": 1131,
+    "known": 1131
+  },
+  "glove": {
+    "vocab": 1131,
+    "known": 1099
+  }
+}

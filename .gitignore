@@ -1,0 +1,13 @@
+__pycache__/
+.pytest_cache/
+.venv/
+.ipynb_checkpoints/
+*.egg-info/
+models/*
+!models/README.md
+!models/*.joblib
+!models/word2vec.model
+!models/fasttext.model
+data/cache/
+*.log
+.DS_Store

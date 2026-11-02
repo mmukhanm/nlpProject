@@ -1,0 +1,6 @@
+{
+  "name": "bow_nb",
+  "kind": "classical",
+  "selection": "validation macro-F1",
+  "validation_f1": 0.8007662835249042
+}

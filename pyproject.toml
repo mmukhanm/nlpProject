@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "marketplace-sentiment-course"
+version = "1.0.0"
+description = "Reproducible Amazon electronics sentiment analysis, weeks 1–6 and 8–13"
+requires-python = ">=3.12,<3.13"
+
+[tool.setuptools.packages.find]
+include = ["nlp_project*"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

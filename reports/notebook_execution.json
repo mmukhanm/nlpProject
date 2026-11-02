@@ -1,0 +1,53 @@
+[
+  {
+    "notebook": "week_01.ipynb",
+    "status": "passed"
+  },
+  {
+    "notebook": "week_02.ipynb",
+    "status": "passed"
+  },
+  {
+    "notebook": "week_03.ipynb",
+    "status": "passed"
+  },
+  {
+    "notebook": "week_04.ipynb",
+    "status": "passed"
+  },
+  {
+    "notebook": "week_05.ipynb",
+    "status": "passed"
+  },
+  {
+    "notebook": "week_06.ipynb",
+    "status": "passed"
+  },
+  {
+    "notebook": "week_08.ipynb",
+    "status": "not_run",
+    "reason": "Requires pretrained BERT and completed experiments"
+  },
+  {
+    "notebook": "week_09.ipynb",
+    "status": "not_run",
+    "reason": "Requires pretrained BERT and completed experiments"
+  },
+  {
+    "notebook": "week_10.ipynb",
+    "status": "not_run",
+    "reason": "Requires pretrained BERT and completed experiments"
+  },
+  {
+    "notebook": "week_11.ipynb",
+    "status": "passed"
+  },
+  {
+    "notebook": "week_12.ipynb",
+    "status": "passed"
+  },
+  {
+    "notebook": "week_13.ipynb",
+    "status": "passed"
+  }
+]
